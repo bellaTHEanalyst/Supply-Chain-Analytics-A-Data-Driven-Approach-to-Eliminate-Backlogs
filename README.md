@@ -1,9 +1,9 @@
 # Supply-Chain-Analytics-A-Data-Driven-Approach-to-Eliminate-Backlogs
-# 📦 Supply Chain Analytics: A Data-Driven Approach to Eliminate Backlogs
+#  Supply Chain Analytics: A Data-Driven Approach to Eliminate Backlogs
 
 This project demonstrates an **end-to-end supply chain analytics solution** built entirely in **Microsoft Excel**, integrating advanced data modeling, KPI tracking, and an **interactive dashboard** to monitor performance metrics and identify process bottlenecks.
 
-🎥 **Watch the full project walkthrough:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1a_XXXM8_10JJpW65j09d5zRlkLsJPZPc?usp=drive_link)
+ **Watch the full project walkthrough:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1a_XXXM8_10JJpW65j09d5zRlkLsJPZPc?usp=drive_link)
 
 ---
 
@@ -40,7 +40,7 @@ This solution was developed to analyze, automate, and visualize operational data
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 - **Microsoft Excel:** Data cleaning, modeling, and dashboard creation   
 - **Pivot Tables & Charts:** For real-time performance summaries  
@@ -49,7 +49,7 @@ This solution was developed to analyze, automate, and visualize operational data
 
 ---
 
-## 📊 Insights & Impact
+##  Insights & Impact
 
 This solution highlights how a backlog-driven system can benefit from analytics:
 - Reducing delivery time and bottlenecks through visual trend monitoring  
