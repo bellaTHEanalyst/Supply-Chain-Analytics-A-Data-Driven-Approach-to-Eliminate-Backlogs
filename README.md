@@ -56,6 +56,11 @@ This solution highlights how a backlog-driven system can benefit from analytics:
 - Improving transparency across zones for better decision-making  
 - Empowering non-technical users to interpret data interactively  
 
----
+## 👩‍💻 Author
+
+**Isabella Martins-Iwuala**  
+Graduate Reasearch Data Analyst @ Lamar University |Microsoft Certified Data Analyst | Fabric Analytics Engineer | Machine Learning Enthisiast
+📍 Texas, USA  
+🔗 [LinkedIn](https://www.linkedin.com/in/martins-isabella-/)
 
 
