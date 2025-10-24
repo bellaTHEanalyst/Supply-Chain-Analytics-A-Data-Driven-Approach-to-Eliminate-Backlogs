@@ -3,7 +3,7 @@
 
 This project demonstrates an **end-to-end supply chain analytics solution** built entirely in **Microsoft Excel**, integrating advanced data modeling, KPI tracking, and an **interactive dashboard** to monitor performance metrics and identify process bottlenecks.
 
-🎥 **Watch the full project walkthrough:** [👉 Click here to view the video](YOUR_VIDEO_LINK_HERE)
+🎥 **Watch the full project walkthrough:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1a_XXXM8_10JJpW65j09d5zRlkLsJPZPc?usp=drive_link)
 
 ---
 
